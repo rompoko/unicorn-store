@@ -1,3 +1,7 @@
-body {
-  background: url(male-unicorns.jpg) bottom center no-repeat;
+html {
+  background: url(male-unicorns.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
