@@ -12,3 +12,9 @@ h1 {
   font-family: "Courier New" , Courier, monospace;
   color: white;
 }
+ul {
+  list-style: square outside none;
+  font-family: "Courier New" , Courier, monospace;
+  font: 21px
+  color: white;
+}
