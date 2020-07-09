@@ -6,3 +6,9 @@ html {
   background-size: cover;
   filter: opacity(50%);
 }
+h1 {
+  text-align: center;
+  border-radius: 100px;
+  font-family: "Courier New" , Courier, monospace;
+  color: white;
+}
