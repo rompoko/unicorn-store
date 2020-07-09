@@ -14,8 +14,12 @@ h1 {
 }
 ul {
   list-style: square outside none;
+}
+.list {
   font-family: "Courier New" , Courier, monospace;
   font: 32px;
   font-weight: bold;
   color: white;
+  text-align:center;
+  border-radius: 100px;
 }
