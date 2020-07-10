@@ -17,7 +17,7 @@ ul {
 }
 .list {
   font-family: "Courier New" , Courier, monospace;
-  width: 30%;
+  font-size: 45px;
   font-weight: bold;
   color: white;
   text-align:center;
