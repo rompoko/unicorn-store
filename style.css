@@ -4,4 +4,22 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  filter: opacity(50%);
+}
+h1 {
+  text-align: center;
+  border-radius: 100px;
+  font-family: "Courier New" , Courier, monospace;
+  color: white;
+}
+ul {
+  list-style: square outside none;
+}
+.list {
+  font-family: "Courier New" , Courier, monospace;
+  font-size: 45px;
+  font-weight: bold;
+  color: white;
+  text-align:center;
+  border-radius: 100px;
 }
