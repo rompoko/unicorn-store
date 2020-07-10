@@ -32,3 +32,12 @@ ul {
   border-radius: 15px;
   border: solid 15px white;
 }
+a:link {
+  color: white;
+}
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+  
