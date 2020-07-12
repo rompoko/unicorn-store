@@ -43,8 +43,6 @@ a:hover {
   text-decoration: underline;
 }
 .round {
-  height: 100px;
-  width: 100px;
   border: solid;
   display: inline-block;
 }
