@@ -12,6 +12,9 @@ h1 {
   font-family: "Courier New" , Courier, monospace;
   color: white;
 }
+body {
+  text-align: center;
+}
 ul {
   list-style: square outside none;
 }
@@ -39,5 +42,12 @@ a:hover {
   color: black;
   text-decoration: underline;
 }
+.round {
+  height: 100px;
+  width: 100px;
+  border: solid;
+  display: inline-block;
+}
+  
 
   
